@@ -11,12 +11,12 @@ The most important part of troubleshooting any problem is to divide the tasks of
 
 - Define the problem.
 - Gather detailed information.
-- Consider probable cause for the failure.
-- Devise a plan to solve the problem.
-- Implement the plan.
-- Observe the results of the implementation.
+- Analyze the information. Consider probable cause for the failure.
+- Devise a plan to solve the problem.Eliminate potential causes.
+- Implement the plan. Propose Hypothesis
+- Test Hypothesis. Observe the results of the implementation.
 - Repeat the process if the plan does not resolve the problem.
-Document the changes made to solve the problem.
+- Document the changes made to solve the problem.
 
 
 ### Skills Learned
