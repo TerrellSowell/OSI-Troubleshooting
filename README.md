@@ -7,6 +7,17 @@ Layer 2(Data Link)-Has the correct protocol been applied to the interface so it 
 Layer 3(Network)-Is the interface using the correct IP address and subnet mask?
 Layer 4(Transport)-Is the correct routing protocol being used, and is the correct networking being advertised from the router?
 
+The most important part of troubleshooting any problem is to divide the tasks of problem resolution into a systematic process of elimination. Cisco has broken this process into eight steps:
+
+- Define the problem.
+- Gather detailed information.
+- Consider probable cause for the failure.
+- Devise a plan to solve the problem.
+- Implement the plan.
+- Observe the results of the implementation.
+- Repeat the process if the plan does not resolve the problem.
+Document the changes made to solve the problem.
+
 
 ### Skills Learned
 
