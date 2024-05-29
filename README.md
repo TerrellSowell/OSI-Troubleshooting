@@ -17,15 +17,20 @@ The most important part of troubleshooting any problem is to divide the tasks of
 - Test Hypothesis. Observe the results of the implementation.
 - Repeat the process if the plan does not resolve the problem.
 - Document the changes made to solve the problem.
-- 
+  
  **Troubleshooting methods through the OSI stack include these three methods:**
 
 ![top down TS](https://github.com/TerrellSowell/OSI-Troubleshooting/assets/161978506/1253ca9e-8814-4b02-9cbb-661c144becf8)
 
 **Troubleshooting Methods:**
 - Comparing Configurations
-- Trace the Path
+- Trace the Path  
 - Swap out Components
+
+**Troubleshooting Connectivity Methods:**
+-  Ping
+-  Traceroute  
+-  Telnet
 
 
 ### Skills Learned
