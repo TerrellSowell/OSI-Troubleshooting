@@ -54,6 +54,6 @@ The most important part of troubleshooting any problem is to divide the tasks of
   - *Switch(config)# cdp run*
   - *Switch(config)# no cdp run*
   - *Switch(config-if)# no cdp enable*
-  - *Swtich# show cdp*
-  - *Switch# show cdp neighbors*
-  - *Switch# show cdp neighbors detail*
+  - *Swtich# show cdp* (displays protocol information for the device)
+  - *Switch# show cdp neighbors* 
+  - *Switch# show cdp neighbors detail* (you can see the IOS release, model, IP address, and other information) 
