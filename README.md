@@ -29,8 +29,8 @@ The most important part of troubleshooting any problem is to divide the tasks of
 
 **Troubleshooting Connectivity Methods:**
 -  Ping- Ping command checks two way connectivity; ICMP uses a packet from the source to the destination.
--  Traceroute- If Ping fails, if you have multiple routers the traceroute command does a hop to hop at each router verifying connectivity at each source to destination.
--  Telnet- Can check to see if a port open on a destination, example you can telnet to port 80 and see if its receiving communication.
+-  Traceroute- If Ping fails, if you have multiple routers the traceroute command does a hop to hop at each router verifying connectivity at each source to identify the problem.
+-  Telnet- Telnet allows us to check and see if a port is open on a destination, example you can telnet to port 80 and see if its open and receiving communication.
 
 
 ### Skills Learned
