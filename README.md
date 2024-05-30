@@ -23,14 +23,14 @@ The most important part of troubleshooting any problem is to divide the tasks of
 ![top down TS](https://github.com/TerrellSowell/OSI-Troubleshooting/assets/161978506/1253ca9e-8814-4b02-9cbb-661c144becf8)
 
 **Troubleshooting Methods:**
-- Comparing Configurations- For routing issues for an example you can look at a template to compare it the configurations too and look for an typos 
-- Trace the Path- For connectivity issues, start at the source and trace it to the destination.
-- Swap out Components- For 
+- Comparing Configurations- For routing issues for an example you can look at a template to compare the configurations too and look for an typos or missing commands
+- Trace the Path- For connectivity issues, start at the source and trace the path to the destination.
+- Swap out Components- If you think you have narrowed the issue to particular device and you can't see any configuration issues, you can switch out the hardware like a cable
 
 **Troubleshooting Connectivity Methods:**
--  Ping
--  Traceroute  
--  Telnet
+-  Ping- Ping command checks two way connectivity; ICMP uses a packet from the source to the destination.
+-  Traceroute- If Ping fails, if you have multiple routers the traceroute command does a hop to hop at each router verifying connectivity at each source to destination.
+-  Telnet- Can check to see if a port open on a destination, example you can telnet to port 80 and see if its receiving communication.
 
 
 ### Skills Learned
