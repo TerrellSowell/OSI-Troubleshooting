@@ -23,9 +23,9 @@ The most important part of troubleshooting any problem is to divide the tasks of
 ![top down TS](https://github.com/TerrellSowell/OSI-Troubleshooting/assets/161978506/1253ca9e-8814-4b02-9cbb-661c144becf8)
 
 **Troubleshooting Methods:**
-- Comparing Configurations
-- Trace the Path  
-- Swap out Components
+- Comparing Configurations- For routing issues for an example you can look at a template to compare it the configurations too and look for an typos 
+- Trace the Path- For connectivity issues, start at the source and trace it to the destination.
+- Swap out Components- For 
 
 **Troubleshooting Connectivity Methods:**
 -  Ping
