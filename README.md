@@ -26,6 +26,7 @@ The most important part of troubleshooting any problem is to divide the tasks of
 - Comparing Configurations- For routing issues for an example you can look at a template to compare the configurations too and look for an typos or missing commands
 - Trace the Path- For connectivity issues, start at the source and trace the path to the destination.
 - Swap out Components- If you think you have narrowed the issue to particular device and you can't see any configuration issues, you can switch out the hardware like a cable
+- CDP- Cisco Discovery Protocol is a Layer 2 protocol, its used to share information with directly connected Cisco equipment. It aids in troubleshooting by allowing admins to see how devices are connected to each other: 
 
 **Troubleshooting Connectivity Methods:**
 -  Ping- Ping command checks two way connectivity; ICMP uses a packet from the source to the destination.
